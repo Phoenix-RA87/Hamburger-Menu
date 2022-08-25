@@ -1,0 +1,296 @@
+C:\Users\Arun\source\repos\Hamburger Menu\Hamburger Menu\bin\Debug\Hamburger Menu.exe.config
+C:\Users\Arun\source\repos\Hamburger Menu\Hamburger Menu\bin\Debug\Hamburger Menu.exe
+C:\Users\Arun\source\repos\Hamburger Menu\Hamburger Menu\bin\Debug\Hamburger Menu.pdb
+C:\Users\Arun\source\repos\Hamburger Menu\Hamburger Menu\obj\Debug\MainWindow.g.cs
+C:\Users\Arun\source\repos\Hamburger Menu\Hamburger Menu\obj\Debug\App.g.cs
+C:\Users\Arun\source\repos\Hamburger Menu\Hamburger Menu\obj\Debug\Hamburger Menu_MarkupCompile.cache
+C:\Users\Arun\source\repos\Hamburger Menu\Hamburger Menu\obj\Debug\Hamburger Menu_MarkupCompile.lref
+C:\Users\Arun\source\repos\Hamburger Menu\Hamburger Menu\obj\Debug\MainWindow.baml
+C:\Users\Arun\source\repos\Hamburger Menu\Hamburger Menu\obj\Debug\Hamburger Menu.g.resources
+C:\Users\Arun\source\repos\Hamburger Menu\Hamburger Menu\obj\Debug\Hamburger_Menu.Properties.Resources.resources
+C:\Users\Arun\source\repos\Hamburger Menu\Hamburger Menu\obj\Debug\Hamburger Menu.csproj.GenerateResource.cache
+C:\Users\Arun\source\repos\Hamburger Menu\Hamburger Menu\obj\Debug\Hamburger Menu.csproj.CoreCompileInputs.cache
+C:\Users\Arun\source\repos\Hamburger Menu\Hamburger Menu\obj\Debug\Hamburger Menu.exe
+C:\Users\Arun\source\repos\Hamburger Menu\Hamburger Menu\obj\Debug\Hamburger Menu.pdb
+C:\Users\Arun\source\repos\Hamburger Menu\Hamburger Menu\obj\Debug\FontList.baml
+C:\Users\Arun\source\repos\Hamburger Menu\Hamburger Menu\obj\Debug\ImageList.baml
+C:\Users\Arun\source\repos\Hamburger Menu\Hamburger Menu\obj\Debug\MainMenu.g.cs
+C:\Users\Arun\source\repos\Hamburger Menu\Hamburger Menu\obj\Debug\App.baml
+C:\Users\Arun\source\repos\Hamburger Menu\Hamburger Menu\obj\Debug\MainMenu.baml
+C:\Users\Arun\source\repos\Hamburger Menu\Hamburger Menu\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Arun\source\repos\Hamburger Menu\Hamburger Menu\obj\Debug\SideBar.g.cs
+C:\Users\Arun\source\repos\Hamburger Menu\Hamburger Menu\obj\Debug\SideBar.baml
+C:\Users\Arun\source\repos\Hamburger Menu\Hamburger Menu\obj\Debug\Hamburger Menu.csprojAssemblyReference.cache
+C:\Users\Arun\source\repos\Hamburger Menu\Hamburger Menu\obj\Debug\SidePanel.g.cs
+C:\Users\Arun\source\repos\Hamburger Menu\Hamburger Menu\obj\Debug\SidePanel.baml
+C:\Users\Arun\source\repos\Hamburger Menu\Hamburger Menu\obj\Debug\SubmenuOne.g.cs
+C:\Users\Arun\source\repos\Hamburger Menu\Hamburger Menu\obj\Debug\SubmenuOne.baml
+C:\Users\Arun\source\repos\Hamburger Menu\Hamburger Menu\obj\Debug\TrackOne.g.cs
+C:\Users\Arun\source\repos\Hamburger Menu\Hamburger Menu\obj\Debug\TrackOne.baml
+C:\Users\Arun\source\repos\Hamburger Menu\Hamburger Menu\obj\Debug\SubmenuTwo.g.cs
+C:\Users\Arun\source\repos\Hamburger Menu\Hamburger Menu\obj\Debug\SubmenuTwo.baml
+C:\Users\Arun\source\repos\Hamburger Menu\Hamburger Menu\obj\Debug\TrackTwo.g.cs
+C:\Users\Arun\source\repos\Hamburger Menu\Hamburger Menu\obj\Debug\TrackTwo.baml
+C:\Users\Arun\source\repos\Hamburger Menu\Hamburger Menu\obj\Debug\Channel.g.cs
+C:\Users\Arun\source\repos\Hamburger Menu\Hamburger Menu\obj\Debug\Channel.baml
+C:\Users\Arun\source\repos\Hamburger Menu\Hamburger Menu\obj\Debug\AppControl.g.cs
+C:\Users\Arun\source\repos\Hamburger Menu\Hamburger Menu\obj\Debug\AppControl.baml
+C:\Users\Arun\Desktop\Hamburger Menu\Hamburger Menu\bin\Debug\Hamburger Menu.exe.config
+C:\Users\Arun\Desktop\Hamburger Menu\Hamburger Menu\bin\Debug\Hamburger Menu.exe
+C:\Users\Arun\Desktop\Hamburger Menu\Hamburger Menu\bin\Debug\Hamburger Menu.pdb
+C:\Users\Arun\Desktop\Hamburger Menu\Hamburger Menu\obj\Debug\Hamburger Menu.csprojAssemblyReference.cache
+C:\Users\Arun\Desktop\Hamburger Menu\Hamburger Menu\obj\Debug\FontList.baml
+C:\Users\Arun\Desktop\Hamburger Menu\Hamburger Menu\obj\Debug\ImageList.baml
+C:\Users\Arun\Desktop\Hamburger Menu\Hamburger Menu\obj\Debug\AppControl.g.cs
+C:\Users\Arun\Desktop\Hamburger Menu\Hamburger Menu\obj\Debug\Channel.g.cs
+C:\Users\Arun\Desktop\Hamburger Menu\Hamburger Menu\obj\Debug\MainMenu.g.cs
+C:\Users\Arun\Desktop\Hamburger Menu\Hamburger Menu\obj\Debug\MainWindow.g.cs
+C:\Users\Arun\Desktop\Hamburger Menu\Hamburger Menu\obj\Debug\SideBar.g.cs
+C:\Users\Arun\Desktop\Hamburger Menu\Hamburger Menu\obj\Debug\SidePanel.g.cs
+C:\Users\Arun\Desktop\Hamburger Menu\Hamburger Menu\obj\Debug\SubmenuOne.g.cs
+C:\Users\Arun\Desktop\Hamburger Menu\Hamburger Menu\obj\Debug\SubmenuTwo.g.cs
+C:\Users\Arun\Desktop\Hamburger Menu\Hamburger Menu\obj\Debug\TrackOne.g.cs
+C:\Users\Arun\Desktop\Hamburger Menu\Hamburger Menu\obj\Debug\TrackTwo.g.cs
+C:\Users\Arun\Desktop\Hamburger Menu\Hamburger Menu\obj\Debug\App.g.cs
+C:\Users\Arun\Desktop\Hamburger Menu\Hamburger Menu\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Arun\Desktop\Hamburger Menu\Hamburger Menu\obj\Debug\Hamburger Menu_MarkupCompile.cache
+C:\Users\Arun\Desktop\Hamburger Menu\Hamburger Menu\obj\Debug\Hamburger Menu_MarkupCompile.lref
+C:\Users\Arun\Desktop\Hamburger Menu\Hamburger Menu\obj\Debug\App.baml
+C:\Users\Arun\Desktop\Hamburger Menu\Hamburger Menu\obj\Debug\AppControl.baml
+C:\Users\Arun\Desktop\Hamburger Menu\Hamburger Menu\obj\Debug\Channel.baml
+C:\Users\Arun\Desktop\Hamburger Menu\Hamburger Menu\obj\Debug\MainMenu.baml
+C:\Users\Arun\Desktop\Hamburger Menu\Hamburger Menu\obj\Debug\MainWindow.baml
+C:\Users\Arun\Desktop\Hamburger Menu\Hamburger Menu\obj\Debug\SideBar.baml
+C:\Users\Arun\Desktop\Hamburger Menu\Hamburger Menu\obj\Debug\SidePanel.baml
+C:\Users\Arun\Desktop\Hamburger Menu\Hamburger Menu\obj\Debug\SubmenuOne.baml
+C:\Users\Arun\Desktop\Hamburger Menu\Hamburger Menu\obj\Debug\SubmenuTwo.baml
+C:\Users\Arun\Desktop\Hamburger Menu\Hamburger Menu\obj\Debug\TrackOne.baml
+C:\Users\Arun\Desktop\Hamburger Menu\Hamburger Menu\obj\Debug\TrackTwo.baml
+C:\Users\Arun\Desktop\Hamburger Menu\Hamburger Menu\obj\Debug\Hamburger Menu.g.resources
+C:\Users\Arun\Desktop\Hamburger Menu\Hamburger Menu\obj\Debug\Hamburger_Menu.Properties.Resources.resources
+C:\Users\Arun\Desktop\Hamburger Menu\Hamburger Menu\obj\Debug\Hamburger Menu.csproj.GenerateResource.cache
+C:\Users\Arun\Desktop\Hamburger Menu\Hamburger Menu\obj\Debug\Hamburger Menu.csproj.CoreCompileInputs.cache
+C:\Users\Arun\Desktop\Hamburger Menu\Hamburger Menu\obj\Debug\Hamburger Menu.exe
+C:\Users\Arun\Desktop\Hamburger Menu\Hamburger Menu\obj\Debug\Hamburger Menu.pdb
+C:\Users\Arun\Desktop\HM 1\Hamburger Menu\Hamburger Menu\bin\Debug\Hamburger Menu.exe.config
+C:\Users\Arun\Desktop\HM 1\Hamburger Menu\Hamburger Menu\bin\Debug\Hamburger Menu.exe
+C:\Users\Arun\Desktop\HM 1\Hamburger Menu\Hamburger Menu\bin\Debug\Hamburger Menu.pdb
+C:\Users\Arun\Desktop\HM 1\Hamburger Menu\Hamburger Menu\obj\Debug\Hamburger Menu.csprojAssemblyReference.cache
+C:\Users\Arun\Desktop\HM 1\Hamburger Menu\Hamburger Menu\obj\Debug\FontList.baml
+C:\Users\Arun\Desktop\HM 1\Hamburger Menu\Hamburger Menu\obj\Debug\ImageList.baml
+C:\Users\Arun\Desktop\HM 1\Hamburger Menu\Hamburger Menu\obj\Debug\AppControl.g.cs
+C:\Users\Arun\Desktop\HM 1\Hamburger Menu\Hamburger Menu\obj\Debug\Channel.g.cs
+C:\Users\Arun\Desktop\HM 1\Hamburger Menu\Hamburger Menu\obj\Debug\MainMenu.g.cs
+C:\Users\Arun\Desktop\HM 1\Hamburger Menu\Hamburger Menu\obj\Debug\MainWindow.g.cs
+C:\Users\Arun\Desktop\HM 1\Hamburger Menu\Hamburger Menu\obj\Debug\SideBar.g.cs
+C:\Users\Arun\Desktop\HM 1\Hamburger Menu\Hamburger Menu\obj\Debug\SidePanel.g.cs
+C:\Users\Arun\Desktop\HM 1\Hamburger Menu\Hamburger Menu\obj\Debug\SubmenuOne.g.cs
+C:\Users\Arun\Desktop\HM 1\Hamburger Menu\Hamburger Menu\obj\Debug\SubmenuTwo.g.cs
+C:\Users\Arun\Desktop\HM 1\Hamburger Menu\Hamburger Menu\obj\Debug\TrackOne.g.cs
+C:\Users\Arun\Desktop\HM 1\Hamburger Menu\Hamburger Menu\obj\Debug\TrackTwo.g.cs
+C:\Users\Arun\Desktop\HM 1\Hamburger Menu\Hamburger Menu\obj\Debug\App.g.cs
+C:\Users\Arun\Desktop\HM 1\Hamburger Menu\Hamburger Menu\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Arun\Desktop\HM 1\Hamburger Menu\Hamburger Menu\obj\Debug\Hamburger Menu_MarkupCompile.cache
+C:\Users\Arun\Desktop\HM 1\Hamburger Menu\Hamburger Menu\obj\Debug\Hamburger Menu_MarkupCompile.lref
+C:\Users\Arun\Desktop\HM 1\Hamburger Menu\Hamburger Menu\obj\Debug\App.baml
+C:\Users\Arun\Desktop\HM 1\Hamburger Menu\Hamburger Menu\obj\Debug\AppControl.baml
+C:\Users\Arun\Desktop\HM 1\Hamburger Menu\Hamburger Menu\obj\Debug\Channel.baml
+C:\Users\Arun\Desktop\HM 1\Hamburger Menu\Hamburger Menu\obj\Debug\MainMenu.baml
+C:\Users\Arun\Desktop\HM 1\Hamburger Menu\Hamburger Menu\obj\Debug\MainWindow.baml
+C:\Users\Arun\Desktop\HM 1\Hamburger Menu\Hamburger Menu\obj\Debug\SideBar.baml
+C:\Users\Arun\Desktop\HM 1\Hamburger Menu\Hamburger Menu\obj\Debug\SidePanel.baml
+C:\Users\Arun\Desktop\HM 1\Hamburger Menu\Hamburger Menu\obj\Debug\SubmenuOne.baml
+C:\Users\Arun\Desktop\HM 1\Hamburger Menu\Hamburger Menu\obj\Debug\SubmenuTwo.baml
+C:\Users\Arun\Desktop\HM 1\Hamburger Menu\Hamburger Menu\obj\Debug\TrackOne.baml
+C:\Users\Arun\Desktop\HM 1\Hamburger Menu\Hamburger Menu\obj\Debug\TrackTwo.baml
+C:\Users\Arun\Desktop\HM 1\Hamburger Menu\Hamburger Menu\obj\Debug\Hamburger Menu.g.resources
+C:\Users\Arun\Desktop\HM 1\Hamburger Menu\Hamburger Menu\obj\Debug\Hamburger_Menu.Properties.Resources.resources
+C:\Users\Arun\Desktop\HM 1\Hamburger Menu\Hamburger Menu\obj\Debug\Hamburger Menu.csproj.GenerateResource.cache
+C:\Users\Arun\Desktop\HM 1\Hamburger Menu\Hamburger Menu\obj\Debug\Hamburger Menu.csproj.CoreCompileInputs.cache
+C:\Users\Arun\Desktop\HM 1\Hamburger Menu\Hamburger Menu\obj\Debug\Hamburger Menu.exe
+C:\Users\Arun\Desktop\HM 1\Hamburger Menu\Hamburger Menu\obj\Debug\Hamburger Menu.pdb
+E:\Hamburger Menu\Hamburger Menu\bin\Debug\Hamburger Menu.exe.config
+E:\Hamburger Menu\Hamburger Menu\bin\Debug\Hamburger Menu.exe
+E:\Hamburger Menu\Hamburger Menu\bin\Debug\Hamburger Menu.pdb
+E:\Hamburger Menu\Hamburger Menu\obj\Debug\FontList.baml
+E:\Hamburger Menu\Hamburger Menu\obj\Debug\ImageList.baml
+E:\Hamburger Menu\Hamburger Menu\obj\Debug\AppControl.g.cs
+E:\Hamburger Menu\Hamburger Menu\obj\Debug\Channel.g.cs
+E:\Hamburger Menu\Hamburger Menu\obj\Debug\MainMenu.g.cs
+E:\Hamburger Menu\Hamburger Menu\obj\Debug\MainWindow.g.cs
+E:\Hamburger Menu\Hamburger Menu\obj\Debug\SideBar.g.cs
+E:\Hamburger Menu\Hamburger Menu\obj\Debug\SidePanel.g.cs
+E:\Hamburger Menu\Hamburger Menu\obj\Debug\SubmenuOne.g.cs
+E:\Hamburger Menu\Hamburger Menu\obj\Debug\SubmenuTwo.g.cs
+E:\Hamburger Menu\Hamburger Menu\obj\Debug\TrackOne.g.cs
+E:\Hamburger Menu\Hamburger Menu\obj\Debug\TrackTwo.g.cs
+E:\Hamburger Menu\Hamburger Menu\obj\Debug\App.g.cs
+E:\Hamburger Menu\Hamburger Menu\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Hamburger Menu\Hamburger Menu\obj\Debug\Hamburger Menu_MarkupCompile.cache
+E:\Hamburger Menu\Hamburger Menu\obj\Debug\Hamburger Menu_MarkupCompile.lref
+E:\Hamburger Menu\Hamburger Menu\obj\Debug\App.baml
+E:\Hamburger Menu\Hamburger Menu\obj\Debug\AppControl.baml
+E:\Hamburger Menu\Hamburger Menu\obj\Debug\Channel.baml
+E:\Hamburger Menu\Hamburger Menu\obj\Debug\MainMenu.baml
+E:\Hamburger Menu\Hamburger Menu\obj\Debug\MainWindow.baml
+E:\Hamburger Menu\Hamburger Menu\obj\Debug\SideBar.baml
+E:\Hamburger Menu\Hamburger Menu\obj\Debug\SidePanel.baml
+E:\Hamburger Menu\Hamburger Menu\obj\Debug\SubmenuOne.baml
+E:\Hamburger Menu\Hamburger Menu\obj\Debug\SubmenuTwo.baml
+E:\Hamburger Menu\Hamburger Menu\obj\Debug\TrackOne.baml
+E:\Hamburger Menu\Hamburger Menu\obj\Debug\TrackTwo.baml
+E:\Hamburger Menu\Hamburger Menu\obj\Debug\Hamburger Menu.g.resources
+E:\Hamburger Menu\Hamburger Menu\obj\Debug\Hamburger_Menu.Properties.Resources.resources
+E:\Hamburger Menu\Hamburger Menu\obj\Debug\Hamburger Menu.csproj.GenerateResource.cache
+E:\Hamburger Menu\Hamburger Menu\obj\Debug\Hamburger Menu.csproj.CoreCompileInputs.cache
+E:\Hamburger Menu\Hamburger Menu\obj\Debug\Hamburger Menu.exe
+E:\Hamburger Menu\Hamburger Menu\obj\Debug\Hamburger Menu.pdb
+E:\Hamburger Menu\Hamburger Menu\obj\Debug\Hamburger Menu.csproj.AssemblyReference.cache
+F:\Hamburger Menu Source Code\Hamburger Menu\Hamburger Menu\Hamburger Menu\bin\Debug\Hamburger Menu.exe.config
+F:\Hamburger Menu Source Code\Hamburger Menu\Hamburger Menu\Hamburger Menu\bin\Debug\Hamburger Menu.exe
+F:\Hamburger Menu Source Code\Hamburger Menu\Hamburger Menu\Hamburger Menu\bin\Debug\Hamburger Menu.pdb
+F:\Hamburger Menu Source Code\Hamburger Menu\Hamburger Menu\Hamburger Menu\obj\Debug\Hamburger Menu.csproj.AssemblyReference.cache
+F:\Hamburger Menu Source Code\Hamburger Menu\Hamburger Menu\Hamburger Menu\obj\Debug\FontList.baml
+F:\Hamburger Menu Source Code\Hamburger Menu\Hamburger Menu\Hamburger Menu\obj\Debug\ImageList.baml
+F:\Hamburger Menu Source Code\Hamburger Menu\Hamburger Menu\Hamburger Menu\obj\Debug\AppControl.g.cs
+F:\Hamburger Menu Source Code\Hamburger Menu\Hamburger Menu\Hamburger Menu\obj\Debug\Channel.g.cs
+F:\Hamburger Menu Source Code\Hamburger Menu\Hamburger Menu\Hamburger Menu\obj\Debug\MainMenu.g.cs
+F:\Hamburger Menu Source Code\Hamburger Menu\Hamburger Menu\Hamburger Menu\obj\Debug\MainWindow.g.cs
+F:\Hamburger Menu Source Code\Hamburger Menu\Hamburger Menu\Hamburger Menu\obj\Debug\SideBar.g.cs
+F:\Hamburger Menu Source Code\Hamburger Menu\Hamburger Menu\Hamburger Menu\obj\Debug\SidePanel.g.cs
+F:\Hamburger Menu Source Code\Hamburger Menu\Hamburger Menu\Hamburger Menu\obj\Debug\SubmenuOne.g.cs
+F:\Hamburger Menu Source Code\Hamburger Menu\Hamburger Menu\Hamburger Menu\obj\Debug\SubmenuTwo.g.cs
+F:\Hamburger Menu Source Code\Hamburger Menu\Hamburger Menu\Hamburger Menu\obj\Debug\TrackOne.g.cs
+F:\Hamburger Menu Source Code\Hamburger Menu\Hamburger Menu\Hamburger Menu\obj\Debug\TrackTwo.g.cs
+F:\Hamburger Menu Source Code\Hamburger Menu\Hamburger Menu\Hamburger Menu\obj\Debug\App.g.cs
+F:\Hamburger Menu Source Code\Hamburger Menu\Hamburger Menu\Hamburger Menu\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Hamburger Menu Source Code\Hamburger Menu\Hamburger Menu\Hamburger Menu\obj\Debug\Hamburger Menu_MarkupCompile.cache
+F:\Hamburger Menu Source Code\Hamburger Menu\Hamburger Menu\Hamburger Menu\obj\Debug\Hamburger Menu_MarkupCompile.lref
+F:\Hamburger Menu Source Code\Hamburger Menu\Hamburger Menu\Hamburger Menu\obj\Debug\App.baml
+F:\Hamburger Menu Source Code\Hamburger Menu\Hamburger Menu\Hamburger Menu\obj\Debug\AppControl.baml
+F:\Hamburger Menu Source Code\Hamburger Menu\Hamburger Menu\Hamburger Menu\obj\Debug\Channel.baml
+F:\Hamburger Menu Source Code\Hamburger Menu\Hamburger Menu\Hamburger Menu\obj\Debug\MainMenu.baml
+F:\Hamburger Menu Source Code\Hamburger Menu\Hamburger Menu\Hamburger Menu\obj\Debug\MainWindow.baml
+F:\Hamburger Menu Source Code\Hamburger Menu\Hamburger Menu\Hamburger Menu\obj\Debug\SideBar.baml
+F:\Hamburger Menu Source Code\Hamburger Menu\Hamburger Menu\Hamburger Menu\obj\Debug\SidePanel.baml
+F:\Hamburger Menu Source Code\Hamburger Menu\Hamburger Menu\Hamburger Menu\obj\Debug\SubmenuOne.baml
+F:\Hamburger Menu Source Code\Hamburger Menu\Hamburger Menu\Hamburger Menu\obj\Debug\SubmenuTwo.baml
+F:\Hamburger Menu Source Code\Hamburger Menu\Hamburger Menu\Hamburger Menu\obj\Debug\TrackOne.baml
+F:\Hamburger Menu Source Code\Hamburger Menu\Hamburger Menu\Hamburger Menu\obj\Debug\TrackTwo.baml
+F:\Hamburger Menu Source Code\Hamburger Menu\Hamburger Menu\Hamburger Menu\obj\Debug\Hamburger Menu.g.resources
+F:\Hamburger Menu Source Code\Hamburger Menu\Hamburger Menu\Hamburger Menu\obj\Debug\Hamburger_Menu.Properties.Resources.resources
+F:\Hamburger Menu Source Code\Hamburger Menu\Hamburger Menu\Hamburger Menu\obj\Debug\Hamburger Menu.csproj.GenerateResource.cache
+F:\Hamburger Menu Source Code\Hamburger Menu\Hamburger Menu\Hamburger Menu\obj\Debug\Hamburger Menu.csproj.CoreCompileInputs.cache
+F:\Hamburger Menu Source Code\Hamburger Menu\Hamburger Menu\Hamburger Menu\obj\Debug\Hamburger Menu.exe
+F:\Hamburger Menu Source Code\Hamburger Menu\Hamburger Menu\Hamburger Menu\obj\Debug\Hamburger Menu.pdb
+C:\Users\Бэтман\Desktop\Hamburger Menu\Hamburger Menu\bin\Debug\Hamburger Menu.exe.config
+C:\Users\Бэтман\Desktop\Hamburger Menu\Hamburger Menu\bin\Debug\Hamburger Menu.exe
+C:\Users\Бэтман\Desktop\Hamburger Menu\Hamburger Menu\bin\Debug\Hamburger Menu.pdb
+C:\Users\Бэтман\Desktop\Hamburger Menu\Hamburger Menu\obj\Debug\Hamburger Menu.csprojAssemblyReference.cache
+C:\Users\Бэтман\Desktop\Hamburger Menu\Hamburger Menu\obj\Debug\FontList.baml
+C:\Users\Бэтман\Desktop\Hamburger Menu\Hamburger Menu\obj\Debug\ImageList.baml
+C:\Users\Бэтман\Desktop\Hamburger Menu\Hamburger Menu\obj\Debug\AppControl.g.cs
+C:\Users\Бэтман\Desktop\Hamburger Menu\Hamburger Menu\obj\Debug\Channel.g.cs
+C:\Users\Бэтман\Desktop\Hamburger Menu\Hamburger Menu\obj\Debug\MainMenu.g.cs
+C:\Users\Бэтман\Desktop\Hamburger Menu\Hamburger Menu\obj\Debug\MainWindow.g.cs
+C:\Users\Бэтман\Desktop\Hamburger Menu\Hamburger Menu\obj\Debug\SideBar.g.cs
+C:\Users\Бэтман\Desktop\Hamburger Menu\Hamburger Menu\obj\Debug\SidePanel.g.cs
+C:\Users\Бэтман\Desktop\Hamburger Menu\Hamburger Menu\obj\Debug\SubmenuOne.g.cs
+C:\Users\Бэтман\Desktop\Hamburger Menu\Hamburger Menu\obj\Debug\SubmenuTwo.g.cs
+C:\Users\Бэтман\Desktop\Hamburger Menu\Hamburger Menu\obj\Debug\TrackOne.g.cs
+C:\Users\Бэтман\Desktop\Hamburger Menu\Hamburger Menu\obj\Debug\TrackTwo.g.cs
+C:\Users\Бэтман\Desktop\Hamburger Menu\Hamburger Menu\obj\Debug\App.g.cs
+C:\Users\Бэтман\Desktop\Hamburger Menu\Hamburger Menu\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Бэтман\Desktop\Hamburger Menu\Hamburger Menu\obj\Debug\Hamburger Menu_MarkupCompile.cache
+C:\Users\Бэтман\Desktop\Hamburger Menu\Hamburger Menu\obj\Debug\Hamburger Menu_MarkupCompile.lref
+C:\Users\Бэтман\Desktop\Hamburger Menu\Hamburger Menu\obj\Debug\App.baml
+C:\Users\Бэтман\Desktop\Hamburger Menu\Hamburger Menu\obj\Debug\AppControl.baml
+C:\Users\Бэтман\Desktop\Hamburger Menu\Hamburger Menu\obj\Debug\Channel.baml
+C:\Users\Бэтман\Desktop\Hamburger Menu\Hamburger Menu\obj\Debug\MainMenu.baml
+C:\Users\Бэтман\Desktop\Hamburger Menu\Hamburger Menu\obj\Debug\MainWindow.baml
+C:\Users\Бэтман\Desktop\Hamburger Menu\Hamburger Menu\obj\Debug\SideBar.baml
+C:\Users\Бэтман\Desktop\Hamburger Menu\Hamburger Menu\obj\Debug\SidePanel.baml
+C:\Users\Бэтман\Desktop\Hamburger Menu\Hamburger Menu\obj\Debug\SubmenuOne.baml
+C:\Users\Бэтман\Desktop\Hamburger Menu\Hamburger Menu\obj\Debug\SubmenuTwo.baml
+C:\Users\Бэтман\Desktop\Hamburger Menu\Hamburger Menu\obj\Debug\TrackOne.baml
+C:\Users\Бэтман\Desktop\Hamburger Menu\Hamburger Menu\obj\Debug\TrackTwo.baml
+C:\Users\Бэтман\Desktop\Hamburger Menu\Hamburger Menu\obj\Debug\Hamburger Menu.g.resources
+C:\Users\Бэтман\Desktop\Hamburger Menu\Hamburger Menu\obj\Debug\Hamburger_Menu.Properties.Resources.resources
+C:\Users\Бэтман\Desktop\Hamburger Menu\Hamburger Menu\obj\Debug\Hamburger Menu.csproj.GenerateResource.cache
+C:\Users\Бэтман\Desktop\Hamburger Menu\Hamburger Menu\obj\Debug\Hamburger Menu.csproj.CoreCompileInputs.cache
+C:\Users\Бэтман\Desktop\Hamburger Menu\Hamburger Menu\obj\Debug\Hamburger Menu.exe
+C:\Users\Бэтман\Desktop\Hamburger Menu\Hamburger Menu\obj\Debug\Hamburger Menu.pdb
+C:\Users\Бэтман\Desktop\Портфолио\Приложения на С#\Hamburger Menu\Hamburger Menu\bin\Debug\Hamburger Menu.exe.config
+C:\Users\Бэтман\Desktop\Портфолио\Приложения на С#\Hamburger Menu\Hamburger Menu\bin\Debug\Hamburger Menu.exe
+C:\Users\Бэтман\Desktop\Портфолио\Приложения на С#\Hamburger Menu\Hamburger Menu\bin\Debug\Hamburger Menu.pdb
+C:\Users\Бэтман\Desktop\Портфолио\Приложения на С#\Hamburger Menu\Hamburger Menu\obj\Debug\Hamburger Menu.csprojAssemblyReference.cache
+C:\Users\Бэтман\Desktop\Портфолио\Приложения на С#\Hamburger Menu\Hamburger Menu\obj\Debug\FontList.baml
+C:\Users\Бэтман\Desktop\Портфолио\Приложения на С#\Hamburger Menu\Hamburger Menu\obj\Debug\ImageList.baml
+C:\Users\Бэтман\Desktop\Портфолио\Приложения на С#\Hamburger Menu\Hamburger Menu\obj\Debug\AppControl.g.cs
+C:\Users\Бэтман\Desktop\Портфолио\Приложения на С#\Hamburger Menu\Hamburger Menu\obj\Debug\Channel.g.cs
+C:\Users\Бэтман\Desktop\Портфолио\Приложения на С#\Hamburger Menu\Hamburger Menu\obj\Debug\MainMenu.g.cs
+C:\Users\Бэтман\Desktop\Портфолио\Приложения на С#\Hamburger Menu\Hamburger Menu\obj\Debug\MainWindow.g.cs
+C:\Users\Бэтман\Desktop\Портфолио\Приложения на С#\Hamburger Menu\Hamburger Menu\obj\Debug\SideBar.g.cs
+C:\Users\Бэтман\Desktop\Портфолио\Приложения на С#\Hamburger Menu\Hamburger Menu\obj\Debug\SidePanel.g.cs
+C:\Users\Бэтман\Desktop\Портфолио\Приложения на С#\Hamburger Menu\Hamburger Menu\obj\Debug\SubmenuOne.g.cs
+C:\Users\Бэтман\Desktop\Портфолио\Приложения на С#\Hamburger Menu\Hamburger Menu\obj\Debug\SubmenuTwo.g.cs
+C:\Users\Бэтман\Desktop\Портфолио\Приложения на С#\Hamburger Menu\Hamburger Menu\obj\Debug\TrackOne.g.cs
+C:\Users\Бэтман\Desktop\Портфолио\Приложения на С#\Hamburger Menu\Hamburger Menu\obj\Debug\TrackTwo.g.cs
+C:\Users\Бэтман\Desktop\Портфолио\Приложения на С#\Hamburger Menu\Hamburger Menu\obj\Debug\App.g.cs
+C:\Users\Бэтман\Desktop\Портфолио\Приложения на С#\Hamburger Menu\Hamburger Menu\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Бэтман\Desktop\Портфолио\Приложения на С#\Hamburger Menu\Hamburger Menu\obj\Debug\Hamburger Menu_MarkupCompile.cache
+C:\Users\Бэтман\Desktop\Портфолио\Приложения на С#\Hamburger Menu\Hamburger Menu\obj\Debug\Hamburger Menu_MarkupCompile.lref
+C:\Users\Бэтман\Desktop\Портфолио\Приложения на С#\Hamburger Menu\Hamburger Menu\obj\Debug\App.baml
+C:\Users\Бэтман\Desktop\Портфолио\Приложения на С#\Hamburger Menu\Hamburger Menu\obj\Debug\AppControl.baml
+C:\Users\Бэтман\Desktop\Портфолио\Приложения на С#\Hamburger Menu\Hamburger Menu\obj\Debug\Channel.baml
+C:\Users\Бэтман\Desktop\Портфолио\Приложения на С#\Hamburger Menu\Hamburger Menu\obj\Debug\MainMenu.baml
+C:\Users\Бэтман\Desktop\Портфолио\Приложения на С#\Hamburger Menu\Hamburger Menu\obj\Debug\MainWindow.baml
+C:\Users\Бэтман\Desktop\Портфолио\Приложения на С#\Hamburger Menu\Hamburger Menu\obj\Debug\SideBar.baml
+C:\Users\Бэтман\Desktop\Портфолио\Приложения на С#\Hamburger Menu\Hamburger Menu\obj\Debug\SidePanel.baml
+C:\Users\Бэтман\Desktop\Портфолио\Приложения на С#\Hamburger Menu\Hamburger Menu\obj\Debug\SubmenuOne.baml
+C:\Users\Бэтман\Desktop\Портфолио\Приложения на С#\Hamburger Menu\Hamburger Menu\obj\Debug\SubmenuTwo.baml
+C:\Users\Бэтман\Desktop\Портфолио\Приложения на С#\Hamburger Menu\Hamburger Menu\obj\Debug\TrackOne.baml
+C:\Users\Бэтман\Desktop\Портфолио\Приложения на С#\Hamburger Menu\Hamburger Menu\obj\Debug\TrackTwo.baml
+C:\Users\Бэтман\Desktop\Портфолио\Приложения на С#\Hamburger Menu\Hamburger Menu\obj\Debug\Hamburger Menu.g.resources
+C:\Users\Бэтман\Desktop\Портфолио\Приложения на С#\Hamburger Menu\Hamburger Menu\obj\Debug\Hamburger_Menu.Properties.Resources.resources
+C:\Users\Бэтман\Desktop\Портфолио\Приложения на С#\Hamburger Menu\Hamburger Menu\obj\Debug\Hamburger Menu.csproj.GenerateResource.cache
+C:\Users\Бэтман\Desktop\Портфолио\Приложения на С#\Hamburger Menu\Hamburger Menu\obj\Debug\Hamburger Menu.csproj.CoreCompileInputs.cache
+C:\Users\Бэтман\Desktop\Портфолио\Приложения на С#\Hamburger Menu\Hamburger Menu\obj\Debug\Hamburger Menu.exe
+C:\Users\Бэтман\Desktop\Портфолио\Приложения на С#\Hamburger Menu\Hamburger Menu\obj\Debug\Hamburger Menu.pdb
+F:\Моё портфолио\Приложения на С#\Hamburger Menu\Hamburger Menu\bin\Debug\Hamburger Menu.exe.config
+F:\Моё портфолио\Приложения на С#\Hamburger Menu\Hamburger Menu\bin\Debug\Hamburger Menu.exe
+F:\Моё портфолио\Приложения на С#\Hamburger Menu\Hamburger Menu\bin\Debug\Hamburger Menu.pdb
+F:\Моё портфолио\Приложения на С#\Hamburger Menu\Hamburger Menu\obj\Debug\Hamburger Menu.csprojAssemblyReference.cache
+F:\Моё портфолио\Приложения на С#\Hamburger Menu\Hamburger Menu\obj\Debug\FontList.baml
+F:\Моё портфолио\Приложения на С#\Hamburger Menu\Hamburger Menu\obj\Debug\ImageList.baml
+F:\Моё портфолио\Приложения на С#\Hamburger Menu\Hamburger Menu\obj\Debug\AppControl.g.cs
+F:\Моё портфолио\Приложения на С#\Hamburger Menu\Hamburger Menu\obj\Debug\Channel.g.cs
+F:\Моё портфолио\Приложения на С#\Hamburger Menu\Hamburger Menu\obj\Debug\MainMenu.g.cs
+F:\Моё портфолио\Приложения на С#\Hamburger Menu\Hamburger Menu\obj\Debug\MainWindow.g.cs
+F:\Моё портфолио\Приложения на С#\Hamburger Menu\Hamburger Menu\obj\Debug\SideBar.g.cs
+F:\Моё портфолио\Приложения на С#\Hamburger Menu\Hamburger Menu\obj\Debug\SidePanel.g.cs
+F:\Моё портфолио\Приложения на С#\Hamburger Menu\Hamburger Menu\obj\Debug\SubmenuOne.g.cs
+F:\Моё портфолио\Приложения на С#\Hamburger Menu\Hamburger Menu\obj\Debug\SubmenuTwo.g.cs
+F:\Моё портфолио\Приложения на С#\Hamburger Menu\Hamburger Menu\obj\Debug\TrackOne.g.cs
+F:\Моё портфолио\Приложения на С#\Hamburger Menu\Hamburger Menu\obj\Debug\TrackTwo.g.cs
+F:\Моё портфолио\Приложения на С#\Hamburger Menu\Hamburger Menu\obj\Debug\App.g.cs
+F:\Моё портфолио\Приложения на С#\Hamburger Menu\Hamburger Menu\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Моё портфолио\Приложения на С#\Hamburger Menu\Hamburger Menu\obj\Debug\Hamburger Menu_MarkupCompile.cache
+F:\Моё портфолио\Приложения на С#\Hamburger Menu\Hamburger Menu\obj\Debug\Hamburger Menu_MarkupCompile.lref
+F:\Моё портфолио\Приложения на С#\Hamburger Menu\Hamburger Menu\obj\Debug\App.baml
+F:\Моё портфолио\Приложения на С#\Hamburger Menu\Hamburger Menu\obj\Debug\AppControl.baml
+F:\Моё портфолио\Приложения на С#\Hamburger Menu\Hamburger Menu\obj\Debug\Channel.baml
+F:\Моё портфолио\Приложения на С#\Hamburger Menu\Hamburger Menu\obj\Debug\MainMenu.baml
+F:\Моё портфолио\Приложения на С#\Hamburger Menu\Hamburger Menu\obj\Debug\MainWindow.baml
+F:\Моё портфолио\Приложения на С#\Hamburger Menu\Hamburger Menu\obj\Debug\SideBar.baml
+F:\Моё портфолио\Приложения на С#\Hamburger Menu\Hamburger Menu\obj\Debug\SidePanel.baml
+F:\Моё портфолио\Приложения на С#\Hamburger Menu\Hamburger Menu\obj\Debug\SubmenuOne.baml
+F:\Моё портфолио\Приложения на С#\Hamburger Menu\Hamburger Menu\obj\Debug\SubmenuTwo.baml
+F:\Моё портфолио\Приложения на С#\Hamburger Menu\Hamburger Menu\obj\Debug\TrackOne.baml
+F:\Моё портфолио\Приложения на С#\Hamburger Menu\Hamburger Menu\obj\Debug\TrackTwo.baml
+F:\Моё портфолио\Приложения на С#\Hamburger Menu\Hamburger Menu\obj\Debug\Hamburger Menu.g.resources
+F:\Моё портфолио\Приложения на С#\Hamburger Menu\Hamburger Menu\obj\Debug\Hamburger_Menu.Properties.Resources.resources
+F:\Моё портфолио\Приложения на С#\Hamburger Menu\Hamburger Menu\obj\Debug\Hamburger Menu.csproj.GenerateResource.cache
+F:\Моё портфолио\Приложения на С#\Hamburger Menu\Hamburger Menu\obj\Debug\Hamburger Menu.csproj.CoreCompileInputs.cache
+F:\Моё портфолио\Приложения на С#\Hamburger Menu\Hamburger Menu\obj\Debug\Hamburger Menu.exe
+F:\Моё портфолио\Приложения на С#\Hamburger Menu\Hamburger Menu\obj\Debug\Hamburger Menu.pdb
